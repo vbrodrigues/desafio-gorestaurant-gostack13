@@ -1,28 +1,18 @@
 {
   "foods": [
     {
-      "id": 1,
-      "name": "Ao molho",
-      "description": "Macarrão ao molho branco, fughi e cheiro verde das montanhas.",
-      "price": "19.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food1.png"
+      "image": "https://images.squarespace-cdn.com/content/v1/5b6b4a0eaa49a1b6dbca3b90/1572365339263-BLT2XGMJ8LMM0G7I4FWG/ke17ZwdGBToddI8pDm48kLkXF2pIyv_F2eUT9F60jBl7gQa3H78H3Y0txjaiv_0fDoOvxcdMmMKkDsyUqMSsMWxHk725yiiHCCLfrh8O1z4YTzHvnKhyp6Da-NYroOW3ZGjoBKy3azqku80C789l0iyqMbMesKd95J-X4EagrgU9L3Sa3U8cogeb0tjXbfawd0urKshkc5MgdBeJmALQKw/pits12.jpg?format=2500w",
+      "name": "Burger Maxx",
+      "price": "19.99",
+      "description": "Hambúrguer de carne bovina 180g.",
+      "id": 2
     },
     {
-      "id": 2,
-      "name": "Veggie",
-      "description": "Macarrão com pimentão, ervilha e ervas finas colhidas no himalaia.",
-      "price": "21.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food2.png"
-    },
-    {
-      "id": 3,
-      "name": "A la Camarón",
-      "description": "Macarrão com vegetais de primeira linha e camarão dos 7 mares.",
-      "price": "25.90",
-      "available": true,
-      "image": "https://storage.googleapis.com/golden-wind/bootcamp-gostack/desafio-food/food3.png"
+      "image": "https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/delish-french-fries-horizontal-1537551908.jpg?crop=1xw:0.75xh;center,top&resize=1200:*",
+      "name": "French Fries",
+      "price": "15.99",
+      "description": "Batata frita crocante.",
+      "id": 3
     }
   ]
 }
